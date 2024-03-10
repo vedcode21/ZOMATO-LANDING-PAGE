@@ -546,6 +546,11 @@ color: grey;
     border-radius: 30px;
     cursor:pointer;
     }
+    
+.section_links_container button:hover{
+    background-color:#cccgit;
+   
+    }
 
 .section_links_container button i{
     color: white;
@@ -554,6 +559,8 @@ color: grey;
     justify-content:center ;
     align-items: center;
 }
+
+
 
 
 .footer_section_logos{
