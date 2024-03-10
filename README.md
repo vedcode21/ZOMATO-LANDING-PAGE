@@ -1,5 +1,5 @@
 # This is my zomato landing page clone
 
 ## Done with first commit.
-
-## Set Up created here for our appln
+DEPOYMENT CAN BE SEEN HERE
+https://vedcode21.github.io/zomato-landing-page/
