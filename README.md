@@ -2,4 +2,4 @@
 
 ## Done with first commit.
 
-https://vedcode21.github.io/zomato-landing-page/
+https://vedcode21.github.io/Zomato-Landing-Page/
